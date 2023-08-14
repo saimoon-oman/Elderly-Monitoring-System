@@ -12,5 +12,5 @@ server and SQL-Alchemy is used for database service.
 
 ## Storyboard
 <p align="center">
-<img width="190" src="screenshot/storyboard_ems.png" />
+<img width="auto" src="screenshot/storyboard_ems.png" />
 </p>
