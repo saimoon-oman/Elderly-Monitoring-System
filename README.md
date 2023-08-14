@@ -14,3 +14,8 @@ server and SQL-Alchemy is used for database service.
 <p align="center">
 <img width="auto" src="screenshot/storyboard_ems.png" />
 </p>
+
+## Work-Flow
+<p align="center">
+<img width="auto" src="screenshot/work_flow.png" />
+</p>
