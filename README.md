@@ -7,7 +7,7 @@ server and SQL-Alchemy is used for database service.
 
 ## Model application
 <p align="center">
-<img width="190" src="screenshot/har.jpg" />
+<img width="auto" src="screenshot/har.jpg" />
 </p>
 
 ## Storyboard
