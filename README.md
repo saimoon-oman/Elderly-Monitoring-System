@@ -9,3 +9,8 @@ server and SQL-Alchemy is used for database service.
 <p align="center">
 <img width="190" src="screenshot/har.jpg" />
 </p>
+
+## Storyboard
+<p align="center">
+<img width="190" src="screenshot/storyboard_ems.png" />
+</p>
